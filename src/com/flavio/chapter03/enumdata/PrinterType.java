@@ -1,4 +1,4 @@
-package com.flavio.chapter03.nestedclasses;
+package com.flavio.chapter03.enumdata;
 
 public enum PrinterType {
     DOTMATRIX(5), INKJET(10), LASER (50);

@@ -1,4 +1,4 @@
-package com.flavio.chapter03.nestedclasses;
+package com.flavio.chapter03.enumdata;
 
 public class EnumTest {
 
