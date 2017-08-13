@@ -4,4 +4,3 @@ package com.flavio.chapter03.interfaces;
 public interface AnnotationTest {
     abstract int foo();
 }
-    
